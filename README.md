@@ -31,7 +31,7 @@ print(f"No longer singular words: {word_list}")
 ```
 
 Example output:
-```python
+```
 Singular words: ['apple', 'berry', 'melon']
 No longer singular words: ['apples', 'berries', 'melons']
 ```
@@ -60,7 +60,7 @@ print(reversed)
 ```
 
 Example output:
-```python
+```
 >>> python3 my_reverse_lab.py
 selppa
 ```
